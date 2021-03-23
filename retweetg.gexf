@@ -1,0 +1,1954 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2021-03-21">
+    <creator>NetworkX 2.5</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="screen_name" type="string" />
+      <attribute id="1" title="type" type="string" />
+    </attributes>
+    <nodes>
+      <node id="13197220945" label="13197220945">
+        <attvalues>
+          <attvalue for="0" value="dreatart" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13131836465" label="13131836465">
+        <attvalues>
+          <attvalue for="0" value="MyAnotherSecret" />
+        </attvalues>
+      </node>
+      <node id="13197278255" label="13197278255">
+        <attvalues>
+          <attvalue for="0" value="rilorique" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13197232851" label="13197232851">
+        <attvalues>
+          <attvalue for="0" value="TrendsBR" />
+        </attvalues>
+      </node>
+      <node id="13197283788" label="13197283788">
+        <attvalues>
+          <attvalue for="0" value="pjgillam" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13197104991" label="13197104991">
+        <attvalues>
+          <attvalue for="0" value="bobfordsports" />
+        </attvalues>
+      </node>
+      <node id="13197305837" label="13197305837">
+        <attvalues>
+          <attvalue for="0" value="TORREALBA2719" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13072226309" label="13072226309">
+        <attvalues>
+          <attvalue for="0" value="chavezcandanga" />
+        </attvalues>
+      </node>
+      <node id="13197310042" label="13197310042">
+        <attvalues>
+          <attvalue for="0" value="Xrocksteady" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13197035575" label="13197035575">
+        <attvalues>
+          <attvalue for="0" value="robdyrdek" />
+        </attvalues>
+      </node>
+      <node id="13197315294" label="13197315294">
+        <attvalues>
+          <attvalue for="0" value="afoca13" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13197148360" label="13197148360">
+        <attvalues>
+          <attvalue for="0" value="ibepacheco" />
+        </attvalues>
+      </node>
+      <node id="13197318525" label="13197318525">
+        <attvalues>
+          <attvalue for="0" value="_carolalcantara" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13197230184" label="13197230184">
+        <attvalues>
+          <attvalue for="0" value="jbelchior" />
+        </attvalues>
+      </node>
+      <node id="13197339633" label="13197339633">
+        <attvalues>
+          <attvalue for="0" value="JnNzr" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13196933908" label="13196933908">
+        <attvalues>
+          <attvalue for="0" value="feranmx" />
+        </attvalues>
+      </node>
+      <node id="13197353461" label="13197353461">
+        <attvalues>
+          <attvalue for="0" value="brokenrumors_" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13197210922" label="13197210922">
+        <attvalues>
+          <attvalue for="0" value="_thesayings_" />
+        </attvalues>
+      </node>
+      <node id="13197366884" label="13197366884">
+        <attvalues>
+          <attvalue for="0" value="LarocaM_" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13197191544" label="13197191544">
+        <attvalues>
+          <attvalue for="0" value="Caco_Grandino" />
+        </attvalues>
+      </node>
+      <node id="13197405691" label="13197405691">
+        <attvalues>
+          <attvalue for="0" value="shuvashisroy" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13197193862" label="13197193862">
+        <attvalues>
+          <attvalue for="0" value="BeingSalmanKhan" />
+        </attvalues>
+      </node>
+      <node id="13197431094" label="13197431094">
+        <attvalues>
+          <attvalue for="0" value="yk_tm" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13197210820" label="13197210820">
+        <attvalues>
+          <attvalue for="0" value="maname" />
+        </attvalues>
+      </node>
+      <node id="13197433052" label="13197433052">
+        <attvalues>
+          <attvalue for="0" value="_KateDempsey" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13194734003" label="13194734003">
+        <attvalues>
+          <attvalue for="0" value="AubreyODay" />
+        </attvalues>
+      </node>
+      <node id="13197439582" label="13197439582">
+        <attvalues>
+          <attvalue for="0" value="stayfornickjay" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13197430545" label="13197430545">
+        <attvalues>
+          <attvalue for="0" value="sirtolkien" />
+        </attvalues>
+      </node>
+      <node id="13197448432" label="13197448432">
+        <attvalues>
+          <attvalue for="0" value="Ca_Silvaa" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13197328572" label="13197328572">
+        <attvalues>
+          <attvalue for="0" value="AprendiNoChaves" />
+        </attvalues>
+      </node>
+      <node id="13197466612" label="13197466612">
+        <attvalues>
+          <attvalue for="0" value="LionEm" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13196111985" label="13196111985">
+        <attvalues>
+          <attvalue for="0" value="LuisChataing" />
+        </attvalues>
+      </node>
+      <node id="13197482092" label="13197482092">
+        <attvalues>
+          <attvalue for="0" value="marcosluz06" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13195644980" label="13195644980">
+        <attvalues>
+          <attvalue for="0" value="Antesde2012_" />
+        </attvalues>
+      </node>
+      <node id="13197487162" label="13197487162">
+        <attvalues>
+          <attvalue for="0" value="yukinkoNoyuki" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13197303126" label="13197303126">
+        <attvalues>
+          <attvalue for="0" value="gotman_t" />
+        </attvalues>
+      </node>
+      <node id="13197515453" label="13197515453">
+        <attvalues>
+          <attvalue for="0" value="arii_camillo" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13197294192" label="13197294192">
+        <attvalues>
+          <attvalue for="0" value="MentesReticente" />
+        </attvalues>
+      </node>
+      <node id="13197517388" label="13197517388">
+        <attvalues>
+          <attvalue for="0" value="rootbox" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13196718421" label="13196718421">
+        <attvalues>
+          <attvalue for="0" value="Maltis" />
+        </attvalues>
+      </node>
+      <node id="13197541858" label="13197541858">
+        <attvalues>
+          <attvalue for="0" value="pierrecote" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13197390588" label="13197390588">
+        <attvalues>
+          <attvalue for="0" value="BBHLabs" />
+        </attvalues>
+      </node>
+      <node id="13197545015" label="13197545015">
+        <attvalues>
+          <attvalue for="0" value="ManiasToscas" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13074955811" label="13074955811">
+        <attvalues>
+          <attvalue for="0" value="Na_Kombi" />
+        </attvalues>
+      </node>
+      <node id="13197571493" label="13197571493">
+        <attvalues>
+          <attvalue for="0" value="David_MJ" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13197413888" label="13197413888">
+        <attvalues>
+          <attvalue for="0" value="muyinteresante" />
+        </attvalues>
+      </node>
+      <node id="13197572437" label="13197572437">
+        <attvalues>
+          <attvalue for="0" value="ILoveGreenDay21" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13197540974" label="13197540974">
+        <attvalues>
+          <attvalue for="0" value="brigittenicole" />
+        </attvalues>
+      </node>
+      <node id="13197587487" label="13197587487">
+        <attvalues>
+          <attvalue for="0" value="marinavagali" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13145541854" label="13145541854">
+        <attvalues>
+          <attvalue for="0" value="Rincon_E" />
+        </attvalues>
+      </node>
+      <node id="13197609552" label="13197609552">
+        <attvalues>
+          <attvalue for="0" value="lazysong" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13197167937" label="13197167937">
+        <attvalues>
+          <attvalue for="0" value="RespectMileyC" />
+        </attvalues>
+      </node>
+      <node id="13197627529" label="13197627529">
+        <attvalues>
+          <attvalue for="0" value="PatrickPeixe" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13197489023" label="13197489023">
+        <attvalues>
+          <attvalue for="0" value="HeractonSandes" />
+        </attvalues>
+      </node>
+      <node id="13197629129" label="13197629129">
+        <attvalues>
+          <attvalue for="0" value="MDB_24" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13197344936" label="13197344936">
+        <attvalues>
+          <attvalue for="0" value="rocsidiaz" />
+        </attvalues>
+      </node>
+      <node id="13197634999" label="13197634999">
+        <attvalues>
+          <attvalue for="0" value="blissfulserene" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13182696614" label="13182696614">
+        <attvalues>
+          <attvalue for="0" value="CAROLisMINE" />
+        </attvalues>
+      </node>
+      <node id="13197640141" label="13197640141">
+        <attvalues>
+          <attvalue for="0" value="najabieber" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13197619150" label="13197619150">
+        <attvalues>
+          <attvalue for="0" value="vivianvvip" />
+        </attvalues>
+      </node>
+      <node id="13197640539" label="13197640539">
+        <attvalues>
+          <attvalue for="0" value="monacouto" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13197581530" label="13197581530">
+        <attvalues>
+          <attvalue for="0" value="_pedroni" />
+        </attvalues>
+      </node>
+      <node id="13197670589" label="13197670589">
+        <attvalues>
+          <attvalue for="0" value="livbythecode" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13197591811" label="13197591811">
+        <attvalues>
+          <attvalue for="0" value="1ItzRush" />
+        </attvalues>
+      </node>
+      <node id="13197685604" label="13197685604">
+        <attvalues>
+          <attvalue for="0" value="kirsieliannaxo" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13197367847" label="13197367847">
+        <attvalues>
+          <attvalue for="0" value="julissamusic" />
+        </attvalues>
+      </node>
+      <node id="13197694063" label="13197694063">
+        <attvalues>
+          <attvalue for="0" value="outtajellybeans" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13186520641" label="13186520641">
+        <attvalues>
+          <attvalue for="0" value="melanieberliet" />
+        </attvalues>
+      </node>
+      <node id="13197704439" label="13197704439">
+        <attvalues>
+          <attvalue for="0" value="SexyKenMinaj" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13197649454" label="13197649454">
+        <attvalues>
+          <attvalue for="0" value="MARYJANEmariee" />
+        </attvalues>
+      </node>
+      <node id="13197723649" label="13197723649">
+        <attvalues>
+          <attvalue for="0" value="cahsabs" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13172802690" label="13172802690">
+        <attvalues>
+          <attvalue for="0" value="ddlovato" />
+        </attvalues>
+      </node>
+      <node id="13197750904" label="13197750904">
+        <attvalues>
+          <attvalue for="0" value="oliviatpr" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13197546689" label="13197546689">
+        <attvalues>
+          <attvalue for="0" value="andrefers" />
+        </attvalues>
+      </node>
+      <node id="13197753964" label="13197753964">
+        <attvalues>
+          <attvalue for="0" value="Tha_bobgirl" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13196218063" label="13196218063">
+        <attvalues>
+          <attvalue for="0" value="loungedagadu" />
+        </attvalues>
+      </node>
+      <node id="13197767323" label="13197767323">
+        <attvalues>
+          <attvalue for="0" value="_mariiana_m" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13197658447" label="13197658447">
+        <attvalues>
+          <attvalue for="0" value="marianasampaioo" />
+        </attvalues>
+      </node>
+      <node id="13197790363" label="13197790363">
+        <attvalues>
+          <attvalue for="0" value="oicaxf" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13197686373" label="13197686373">
+        <attvalues>
+          <attvalue for="0" value="KarenM29" />
+        </attvalues>
+      </node>
+      <node id="13197808268" label="13197808268">
+        <attvalues>
+          <attvalue for="0" value="leonylima" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13086921808" label="13086921808">
+        <attvalues>
+          <attvalue for="0" value="clubedacrianca" />
+        </attvalues>
+      </node>
+      <node id="13197817289" label="13197817289">
+        <attvalues>
+          <attvalue for="0" value="ani_m65" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13197176585" label="13197176585">
+        <attvalues>
+          <attvalue for="0" value="Salima" />
+        </attvalues>
+      </node>
+      <node id="13197820676" label="13197820676">
+        <attvalues>
+          <attvalue for="0" value="nisamrocco" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13197806924" label="13197806924">
+        <attvalues>
+          <attvalue for="0" value="Trags" />
+        </attvalues>
+      </node>
+      <node id="13197916063" label="13197916063">
+        <attvalues>
+          <attvalue for="0" value="Vipclass76" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13196883498" label="13196883498">
+        <attvalues>
+          <attvalue for="0" value="freethailand" />
+        </attvalues>
+      </node>
+      <node id="13197951378" label="13197951378">
+        <attvalues>
+          <attvalue for="0" value="OMarcusLongo" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13197891440" label="13197891440">
+        <attvalues>
+          <attvalue for="0" value="carnafacul" />
+        </attvalues>
+      </node>
+      <node id="13197971144" label="13197971144">
+        <attvalues>
+          <attvalue for="0" value="LuisaGiancoli" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="12079662741" label="12079662741">
+        <attvalues>
+          <attvalue for="0" value="gamedelivery" />
+        </attvalues>
+      </node>
+      <node id="13197984501" label="13197984501">
+        <attvalues>
+          <attvalue for="0" value="Illarramendi72" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13197128181" label="13197128181">
+        <attvalues>
+          <attvalue for="0" value="JuanAlmeidaN33" />
+        </attvalues>
+      </node>
+      <node id="13197999666" label="13197999666">
+        <attvalues>
+          <attvalue for="0" value="sasablueheart" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13197895918" label="13197895918">
+        <attvalues>
+          <attvalue for="0" value="GuruGuzzi" />
+        </attvalues>
+      </node>
+      <node id="13198037139" label="13198037139">
+        <attvalues>
+          <attvalue for="0" value="BeliebInMiAmor" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13197852838" label="13197852838">
+        <attvalues>
+          <attvalue for="0" value="SomaiaELB" />
+        </attvalues>
+      </node>
+      <node id="13198074205" label="13198074205">
+        <attvalues>
+          <attvalue for="0" value="yamaniaxxx" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13196493094" label="13196493094">
+        <attvalues>
+          <attvalue for="0" value="ayu_19980408" />
+        </attvalues>
+      </node>
+      <node id="13198163936" label="13198163936">
+        <attvalues>
+          <attvalue for="0" value="rangerchino876" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13197763356" label="13197763356">
+        <attvalues>
+          <attvalue for="0" value="Fretshirt_com" />
+        </attvalues>
+      </node>
+      <node id="13198168095" label="13198168095">
+        <attvalues>
+          <attvalue for="0" value="its_NaS" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13197734156" label="13197734156">
+        <attvalues>
+          <attvalue for="0" value="lilduval" />
+        </attvalues>
+      </node>
+      <node id="13198171634" label="13198171634">
+        <attvalues>
+          <attvalue for="0" value="okkid" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13195702302" label="13195702302">
+        <attvalues>
+          <attvalue for="0" value="bimtruckdriver" />
+        </attvalues>
+      </node>
+      <node id="13198217544" label="13198217544">
+        <attvalues>
+          <attvalue for="0" value="Hellen_Hale" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13197894052" label="13197894052">
+        <attvalues>
+          <attvalue for="0" value="FCO_CarvalhoJoh" />
+        </attvalues>
+      </node>
+      <node id="13198267061" label="13198267061">
+        <attvalues>
+          <attvalue for="0" value="kimsshi11" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13197615528" label="13197615528">
+        <attvalues>
+          <attvalue for="0" value="TeenThings" />
+        </attvalues>
+      </node>
+      <node id="13198320991" label="13198320991">
+        <attvalues>
+          <attvalue for="0" value="brec0villegas" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13198329234" label="13198329234">
+        <attvalues>
+          <attvalue for="0" value="HomeMovies2" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13197278411" label="13197278411">
+        <attvalues>
+          <attvalue for="0" value="DrJoeMcK" />
+        </attvalues>
+      </node>
+      <node id="13198358925" label="13198358925">
+        <attvalues>
+          <attvalue for="0" value="melpness" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13198161115" label="13198161115">
+        <attvalues>
+          <attvalue for="0" value="vanesepulvedaa" />
+        </attvalues>
+      </node>
+      <node id="13198391897" label="13198391897">
+        <attvalues>
+          <attvalue for="0" value="JessBarelli" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13096386129" label="13096386129">
+        <attvalues>
+          <attvalue for="0" value="chicolatras" />
+        </attvalues>
+      </node>
+      <node id="13198399522" label="13198399522">
+        <attvalues>
+          <attvalue for="0" value="intata88" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13198151069" label="13198151069">
+        <attvalues>
+          <attvalue for="0" value="spanishurricane" />
+        </attvalues>
+      </node>
+      <node id="13198400822" label="13198400822">
+        <attvalues>
+          <attvalue for="0" value="JennSanderson5" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13187632206" label="13187632206">
+        <attvalues>
+          <attvalue for="0" value="thenovogratz" />
+        </attvalues>
+      </node>
+      <node id="13198428974" label="13198428974">
+        <attvalues>
+          <attvalue for="0" value="mollyxspring" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13198349771" label="13198349771">
+        <attvalues>
+          <attvalue for="0" value="Celebrity_Juice" />
+        </attvalues>
+      </node>
+      <node id="13198441458" label="13198441458">
+        <attvalues>
+          <attvalue for="0" value="Fredo_Be" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13197442455" label="13197442455">
+        <attvalues>
+          <attvalue for="0" value="jphmathieu" />
+        </attvalues>
+      </node>
+      <node id="13198481579" label="13198481579">
+        <attvalues>
+          <attvalue for="0" value="ronaldobahamas" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13198369436" label="13198369436">
+        <attvalues>
+          <attvalue for="0" value="jeitocarioca" />
+        </attvalues>
+      </node>
+      <node id="13198494081" label="13198494081">
+        <attvalues>
+          <attvalue for="0" value="Brunac_Souza" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13198260917" label="13198260917">
+        <attvalues>
+          <attvalue for="0" value="lojacisne" />
+        </attvalues>
+      </node>
+      <node id="13198500212" label="13198500212">
+        <attvalues>
+          <attvalue for="0" value="mary_clarck" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13198462044" label="13198462044">
+        <attvalues>
+          <attvalue for="0" value="BeeGriffs7" />
+        </attvalues>
+      </node>
+      <node id="13198533448" label="13198533448">
+        <attvalues>
+          <attvalue for="0" value="lisamxOx" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13198055752" label="13198055752">
+        <attvalues>
+          <attvalue for="0" value="vibinmariah" />
+        </attvalues>
+      </node>
+      <node id="13198585906" label="13198585906">
+        <attvalues>
+          <attvalue for="0" value="Celiaxcx" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13198538870" label="13198538870">
+        <attvalues>
+          <attvalue for="0" value="TaeKey_SHINee" />
+        </attvalues>
+      </node>
+      <node id="13198602694" label="13198602694">
+        <attvalues>
+          <attvalue for="0" value="MoonDeac" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13198263261" label="13198263261">
+        <attvalues>
+          <attvalue for="0" value="Joedangle" />
+        </attvalues>
+      </node>
+      <node id="13198618019" label="13198618019">
+        <attvalues>
+          <attvalue for="0" value="migbastida" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13197795585" label="13197795585">
+        <attvalues>
+          <attvalue for="0" value="GuarosOficial" />
+        </attvalues>
+      </node>
+      <node id="13198638807" label="13198638807">
+        <attvalues>
+          <attvalue for="0" value="tiffanyrenee99" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13089003490" label="13089003490">
+        <attvalues>
+          <attvalue for="0" value="billmaher" />
+        </attvalues>
+      </node>
+      <node id="13198651258" label="13198651258">
+        <attvalues>
+          <attvalue for="0" value="bbxie" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13198521270" label="13198521270">
+        <attvalues>
+          <attvalue for="0" value="melpness" />
+        </attvalues>
+      </node>
+      <node id="13198673811" label="13198673811">
+        <attvalues>
+          <attvalue for="0" value="FADPao" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13196724883" label="13196724883">
+        <attvalues>
+          <attvalue for="0" value="HATFELT731" />
+        </attvalues>
+      </node>
+      <node id="13198686478" label="13198686478">
+        <attvalues>
+          <attvalue for="0" value="yanglicai" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13195324294" label="13195324294">
+        <attvalues>
+          <attvalue for="0" value="aiww" />
+        </attvalues>
+      </node>
+      <node id="13198690494" label="13198690494">
+        <attvalues>
+          <attvalue for="0" value="AyleenLagos" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13198422781" label="13198422781">
+        <attvalues>
+          <attvalue for="0" value="kcxlittlemix" />
+        </attvalues>
+      </node>
+      <node id="13198756985" label="13198756985">
+        <attvalues>
+          <attvalue for="0" value="Frenchyacinthe" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13198495082" label="13198495082">
+        <attvalues>
+          <attvalue for="0" value="mr_peer" />
+        </attvalues>
+      </node>
+      <node id="13198762606" label="13198762606">
+        <attvalues>
+          <attvalue for="0" value="angelmadisonme" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13197040124" label="13197040124">
+        <attvalues>
+          <attvalue for="0" value="Nixie" />
+        </attvalues>
+      </node>
+      <node id="13198857663" label="13198857663">
+        <attvalues>
+          <attvalue for="0" value="wishjjustin" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13198832236" label="13198832236">
+        <attvalues>
+          <attvalue for="0" value="TodoFanDoBieber" />
+        </attvalues>
+      </node>
+      <node id="13198871727" label="13198871727">
+        <attvalues>
+          <attvalue for="0" value="arjun_hindutva" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13191801406" label="13191801406">
+        <attvalues>
+          <attvalue for="0" value="KanchanGupta" />
+        </attvalues>
+      </node>
+      <node id="13198921661" label="13198921661">
+        <attvalues>
+          <attvalue for="0" value="jujubadelimao" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13198829939" label="13198829939">
+        <attvalues>
+          <attvalue for="0" value="renattapimentel" />
+        </attvalues>
+      </node>
+      <node id="13199001774" label="13199001774">
+        <attvalues>
+          <attvalue for="0" value="amanda4good" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13195387850" label="13195387850">
+        <attvalues>
+          <attvalue for="0" value="drval" />
+        </attvalues>
+      </node>
+      <node id="13199039552" label="13199039552">
+        <attvalues>
+          <attvalue for="0" value="ofirkaner" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13140114103" label="13140114103">
+        <attvalues>
+          <attvalue for="0" value="vambenepe" />
+        </attvalues>
+      </node>
+      <node id="13199201599" label="13199201599">
+        <attvalues>
+          <attvalue for="0" value="diegomena" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13189691888" label="13189691888">
+        <attvalues>
+          <attvalue for="0" value="dominicanstreet" />
+        </attvalues>
+      </node>
+      <node id="13199361981" label="13199361981">
+        <attvalues>
+          <attvalue for="0" value="climate_politix" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13147585859" label="13147585859">
+        <attvalues>
+          <attvalue for="0" value="EcoStorietyme" />
+        </attvalues>
+      </node>
+      <node id="13199384625" label="13199384625">
+        <attvalues>
+          <attvalue for="0" value="climate_politix" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13146904038" label="13146904038">
+        <attvalues>
+          <attvalue for="0" value="LCVoters" />
+        </attvalues>
+      </node>
+      <node id="13199413311" label="13199413311">
+        <attvalues>
+          <attvalue for="0" value="EARC_IISO" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13199346295" label="13199346295">
+        <attvalues>
+          <attvalue for="0" value="gleek_mongronx" />
+        </attvalues>
+      </node>
+      <node id="13199448323" label="13199448323">
+        <attvalues>
+          <attvalue for="0" value="lauriehodge" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13194961997" label="13194961997">
+        <attvalues>
+          <attvalue for="0" value="SusanCosmos" />
+        </attvalues>
+      </node>
+      <node id="13199521339" label="13199521339">
+        <attvalues>
+          <attvalue for="0" value="Fevski" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13198306002" label="13198306002">
+        <attvalues>
+          <attvalue for="0" value="JMarkyBB" />
+        </attvalues>
+      </node>
+      <node id="13199562459" label="13199562459">
+        <attvalues>
+          <attvalue for="0" value="hichacoco" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13183026614" label="13183026614">
+        <attvalues>
+          <attvalue for="0" value="tricycler" />
+        </attvalues>
+      </node>
+      <node id="13199633499" label="13199633499">
+        <attvalues>
+          <attvalue for="0" value="ElviraCC" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13199557753" label="13199557753">
+        <attvalues>
+          <attvalue for="0" value="lovJustinB4eva" />
+        </attvalues>
+      </node>
+      <node id="13199738384" label="13199738384">
+        <attvalues>
+          <attvalue for="0" value="ATweetMom" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13199461388" label="13199461388">
+        <attvalues>
+          <attvalue for="0" value="DealsPlus" />
+        </attvalues>
+      </node>
+      <node id="13199744818" label="13199744818">
+        <attvalues>
+          <attvalue for="0" value="SandwichJFilms" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13197289204" label="13197289204">
+        <attvalues>
+          <attvalue for="0" value="Jaime_King" />
+        </attvalues>
+      </node>
+      <node id="13199755728" label="13199755728">
+        <attvalues>
+          <attvalue for="0" value="priscilaadias" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13199617804" label="13199617804">
+        <attvalues>
+          <attvalue for="0" value="bgabrelian" />
+        </attvalues>
+      </node>
+      <node id="13199782013" label="13199782013">
+        <attvalues>
+          <attvalue for="0" value="Bittersweetnesz" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13155269987" label="13155269987">
+        <attvalues>
+          <attvalue for="0" value="ZodiacFacts" />
+        </attvalues>
+      </node>
+      <node id="13199828115" label="13199828115">
+        <attvalues>
+          <attvalue for="0" value="mania__" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13199665212" label="13199665212">
+        <attvalues>
+          <attvalue for="0" value="jacquefonseca" />
+        </attvalues>
+      </node>
+      <node id="13199858477" label="13199858477">
+        <attvalues>
+          <attvalue for="0" value="nakasec" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13199577293" label="13199577293">
+        <attvalues>
+          <attvalue for="0" value="sookyung" />
+        </attvalues>
+      </node>
+      <node id="13199863177" label="13199863177">
+        <attvalues>
+          <attvalue for="0" value="nneidok" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13199824916" label="13199824916">
+        <attvalues>
+          <attvalue for="0" value="peche" />
+        </attvalues>
+      </node>
+      <node id="13199892021" label="13199892021">
+        <attvalues>
+          <attvalue for="0" value="CYMANDYE" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13034083867" label="13034083867">
+        <attvalues>
+          <attvalue for="0" value="ZodiacFacts" />
+        </attvalues>
+      </node>
+      <node id="13199934625" label="13199934625">
+        <attvalues>
+          <attvalue for="0" value="WordManWord" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13168327266" label="13168327266">
+        <attvalues>
+          <attvalue for="0" value="BigBoi" />
+        </attvalues>
+      </node>
+      <node id="13199940066" label="13199940066">
+        <attvalues>
+          <attvalue for="0" value="MarsFarce" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13199865770" label="13199865770">
+        <attvalues>
+          <attvalue for="0" value="DailyHiveTO" />
+        </attvalues>
+      </node>
+      <node id="13199946913" label="13199946913">
+        <attvalues>
+          <attvalue for="0" value="GGWraps_Inc" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13171569767" label="13171569767">
+        <attvalues>
+          <attvalue for="0" value="creativelead1" />
+        </attvalues>
+      </node>
+      <node id="13199963849" label="13199963849">
+        <attvalues>
+          <attvalue for="0" value="ninaaraujos" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13188351303" label="13188351303">
+        <attvalues>
+          <attvalue for="0" value="MariaRita" />
+        </attvalues>
+      </node>
+      <node id="13199979242" label="13199979242">
+        <attvalues>
+          <attvalue for="0" value="kirblar" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13199992235" label="13199992235">
+        <attvalues>
+          <attvalue for="0" value="GilPress" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13196193725" label="13196193725">
+        <attvalues>
+          <attvalue for="0" value="ScottKirsner" />
+        </attvalues>
+      </node>
+      <node id="13200030797" label="13200030797">
+        <attvalues>
+          <attvalue for="0" value="laissfernandes" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13199906537" label="13199906537">
+        <attvalues>
+          <attvalue for="0" value="Cantodosaber" />
+        </attvalues>
+      </node>
+      <node id="13200048781" label="13200048781">
+        <attvalues>
+          <attvalue for="0" value="AmeKTC" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13200045668" label="13200045668">
+        <attvalues>
+          <attvalue for="0" value="rocketboxx" />
+        </attvalues>
+      </node>
+      <node id="13200067077" label="13200067077">
+        <attvalues>
+          <attvalue for="0" value="Candelariomora" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13150122908" label="13150122908">
+        <attvalues>
+          <attvalue for="0" value="Quijoteando" />
+        </attvalues>
+      </node>
+      <node id="13200096539" label="13200096539">
+        <attvalues>
+          <attvalue for="0" value="marialaural" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13197789660" label="13197789660">
+        <attvalues>
+          <attvalue for="0" value="TeenThings" />
+        </attvalues>
+      </node>
+      <node id="13200113118" label="13200113118">
+        <attvalues>
+          <attvalue for="0" value="g_alexakis" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13198305392" label="13198305392">
+        <attvalues>
+          <attvalue for="0" value="nytimes" />
+        </attvalues>
+      </node>
+      <node id="13200114873" label="13200114873">
+        <attvalues>
+          <attvalue for="0" value="ericramazzotti" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13200001226" label="13200001226">
+        <attvalues>
+          <attvalue for="0" value="Ale_spinola" />
+        </attvalues>
+      </node>
+      <node id="13200123135" label="13200123135">
+        <attvalues>
+          <attvalue for="0" value="Fall4MeBitch" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13199336614" label="13199336614">
+        <attvalues>
+          <attvalue for="0" value="TeenThings" />
+        </attvalues>
+      </node>
+      <node id="13200137395" label="13200137395">
+        <attvalues>
+          <attvalue for="0" value="706nix" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13199622050" label="13199622050">
+        <attvalues>
+          <attvalue for="0" value="SandmanEsq" />
+        </attvalues>
+      </node>
+      <node id="13200142955" label="13200142955">
+        <attvalues>
+          <attvalue for="0" value="joelrockemann" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13188055799" label="13188055799">
+        <attvalues>
+          <attvalue for="0" value="CSLewisDaily" />
+        </attvalues>
+      </node>
+      <node id="13200143128" label="13200143128">
+        <attvalues>
+          <attvalue for="0" value="LyvLight" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13200119442" label="13200119442">
+        <attvalues>
+          <attvalue for="0" value="Samuel_Smith" />
+        </attvalues>
+      </node>
+      <node id="13200146198" label="13200146198">
+        <attvalues>
+          <attvalue for="0" value="niallhoranohyes" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13199929979" label="13199929979">
+        <attvalues>
+          <attvalue for="0" value="mia_mo356" />
+        </attvalues>
+      </node>
+      <node id="13200159168" label="13200159168">
+        <attvalues>
+          <attvalue for="0" value="Paola_Cristiny" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13200081891" label="13200081891">
+        <attvalues>
+          <attvalue for="0" value="turmadopagode" />
+        </attvalues>
+      </node>
+      <node id="13200162023" label="13200162023">
+        <attvalues>
+          <attvalue for="0" value="bruno_oliveir" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13200115980" label="13200115980">
+        <attvalues>
+          <attvalue for="0" value="potterish" />
+        </attvalues>
+      </node>
+      <node id="13200168477" label="13200168477">
+        <attvalues>
+          <attvalue for="0" value="DieselKenevil" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13200134364" label="13200134364">
+        <attvalues>
+          <attvalue for="0" value="Only1Easton" />
+        </attvalues>
+      </node>
+      <node id="13200169884" label="13200169884">
+        <attvalues>
+          <attvalue for="0" value="tatisoli" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13200117641" label="13200117641">
+        <attvalues>
+          <attvalue for="0" value="Criando_Frases" />
+        </attvalues>
+      </node>
+      <node id="13200187523" label="13200187523">
+        <attvalues>
+          <attvalue for="0" value="SmileIsJONAS" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13200141891" label="13200141891">
+        <attvalues>
+          <attvalue for="0" value="vanesepulvedaa" />
+        </attvalues>
+      </node>
+      <node id="13200221112" label="13200221112">
+        <attvalues>
+          <attvalue for="0" value="iBelong2Music" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13200191631" label="13200191631">
+        <attvalues>
+          <attvalue for="0" value="TipicosdeTeens" />
+        </attvalues>
+      </node>
+      <node id="13200249074" label="13200249074">
+        <attvalues>
+          <attvalue for="0" value="his_princess_25" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13200114683" label="13200114683">
+        <attvalues>
+          <attvalue for="0" value="TeenThings" />
+        </attvalues>
+      </node>
+      <node id="13200260065" label="13200260065">
+        <attvalues>
+          <attvalue for="0" value="OscarFarfanq" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13200219258" label="13200219258">
+        <attvalues>
+          <attvalue for="0" value="ashleytisdalepe" />
+        </attvalues>
+      </node>
+      <node id="13200277713" label="13200277713">
+        <attvalues>
+          <attvalue for="0" value="estacaostandup" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13190965490" label="13190965490">
+        <attvalues>
+          <attvalue for="0" value="danielbelmonte" />
+        </attvalues>
+      </node>
+      <node id="13200277858" label="13200277858">
+        <attvalues>
+          <attvalue for="0" value="Sunflowerdagger" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13200011078" label="13200011078">
+        <attvalues>
+          <attvalue for="0" value="stevetheseeker" />
+        </attvalues>
+      </node>
+      <node id="13200289893" label="13200289893">
+        <attvalues>
+          <attvalue for="0" value="JDBiebzWrld" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13200220469" label="13200220469">
+        <attvalues>
+          <attvalue for="0" value="BieberWarrior" />
+        </attvalues>
+      </node>
+      <node id="13200295811" label="13200295811">
+        <attvalues>
+          <attvalue for="0" value="Gabisternick" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13200227475" label="13200227475">
+        <attvalues>
+          <attvalue for="0" value="MasQueMaravilha" />
+        </attvalues>
+      </node>
+      <node id="13200296068" label="13200296068">
+        <attvalues>
+          <attvalue for="0" value="thisblenda" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13199316363" label="13199316363">
+        <attvalues>
+          <attvalue for="0" value="CNNgo" />
+        </attvalues>
+      </node>
+      <node id="13200312954" label="13200312954">
+        <attvalues>
+          <attvalue for="0" value="bgrundon" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13200139381" label="13200139381">
+        <attvalues>
+          <attvalue for="0" value="TheKidPost" />
+        </attvalues>
+      </node>
+      <node id="13200320182" label="13200320182">
+        <attvalues>
+          <attvalue for="0" value="MrsEnchanted" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13197239264" label="13197239264">
+        <attvalues>
+          <attvalue for="0" value="VintagePackrat" />
+        </attvalues>
+      </node>
+      <node id="13200335628" label="13200335628">
+        <attvalues>
+          <attvalue for="0" value="hobasjin" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13175352881" label="13175352881">
+        <attvalues>
+          <attvalue for="0" value="YKYAWFW" />
+        </attvalues>
+      </node>
+      <node id="13200335643" label="13200335643">
+        <attvalues>
+          <attvalue for="0" value="ShakeJuntRadio" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13200210953" label="13200210953">
+        <attvalues>
+          <attvalue for="0" value="A_MiLLie_Moore" />
+        </attvalues>
+      </node>
+      <node id="13200339632" label="13200339632">
+        <attvalues>
+          <attvalue for="0" value="yuimk2" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13200268824" label="13200268824">
+        <attvalues>
+          <attvalue for="0" value="tanaka_tom_bot" />
+        </attvalues>
+      </node>
+      <node id="13200341564" label="13200341564">
+        <attvalues>
+          <attvalue for="0" value="Lovealways_liz" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13200310378" label="13200310378">
+        <attvalues>
+          <attvalue for="0" value="iDefineProlific" />
+        </attvalues>
+      </node>
+      <node id="13200349677" label="13200349677">
+        <attvalues>
+          <attvalue for="0" value="_Whoooa_" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13200203139" label="13200203139">
+        <attvalues>
+          <attvalue for="0" value="ILoveJoeKevNick" />
+        </attvalues>
+      </node>
+      <node id="13200357099" label="13200357099">
+        <attvalues>
+          <attvalue for="0" value="Not_Your_Whore" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13200344143" label="13200344143">
+        <attvalues>
+          <attvalue for="0" value="Prisonbreaknews" />
+        </attvalues>
+      </node>
+      <node id="13200361227" label="13200361227">
+        <attvalues>
+          <attvalue for="0" value="RenataLealT" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13200362253" label="13200362253">
+        <attvalues>
+          <attvalue for="0" value="IAmGeralVega" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13200341503" label="13200341503">
+        <attvalues>
+          <attvalue for="0" value="daddy_yankee" />
+        </attvalues>
+      </node>
+      <node id="13200363191" label="13200363191">
+        <attvalues>
+          <attvalue for="0" value="CKDAGOD1" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="12951822937" label="12951822937">
+        <attvalues>
+          <attvalue for="0" value="ZodiacFacts" />
+        </attvalues>
+      </node>
+      <node id="13200364594" label="13200364594">
+        <attvalues>
+          <attvalue for="0" value="JVStreetTeamChi" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13200279969" label="13200279969">
+        <attvalues>
+          <attvalue for="0" value="TeenThings" />
+        </attvalues>
+      </node>
+      <node id="13200366638" label="13200366638">
+        <attvalues>
+          <attvalue for="0" value="RihannaJBieber" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13200231709" label="13200231709">
+        <attvalues>
+          <attvalue for="0" value="JDBistheone" />
+        </attvalues>
+      </node>
+      <node id="13200368623" label="13200368623">
+        <attvalues>
+          <attvalue for="0" value="cast_architect" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13197309569" label="13197309569">
+        <attvalues>
+          <attvalue for="0" value="SPINNArkitekter" />
+        </attvalues>
+      </node>
+      <node id="13200374944" label="13200374944">
+        <attvalues>
+          <attvalue for="0" value="Jessicarzd" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13200376931" label="13200376931">
+        <attvalues>
+          <attvalue for="0" value="CassesOficial" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13193716321" label="13193716321">
+        <attvalues>
+          <attvalue for="0" value="polaquinn" />
+        </attvalues>
+      </node>
+      <node id="13200381013" label="13200381013">
+        <attvalues>
+          <attvalue for="0" value="jbluver9" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="7242339794" label="7242339794">
+        <attvalues>
+          <attvalue for="0" value="justinbieber" />
+        </attvalues>
+      </node>
+      <node id="13200385261" label="13200385261">
+        <attvalues>
+          <attvalue for="0" value="jonaskingdom" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13200248473" label="13200248473">
+        <attvalues>
+          <attvalue for="0" value="VANEANDREU" />
+        </attvalues>
+      </node>
+      <node id="13200401463" label="13200401463">
+        <attvalues>
+          <attvalue for="0" value="hobasjin" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="11665749351" label="11665749351">
+        <attvalues>
+          <attvalue for="0" value="YKYAWFW" />
+        </attvalues>
+      </node>
+      <node id="13200405753" label="13200405753">
+        <attvalues>
+          <attvalue for="0" value="Vanessa_CCH" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13197601274" label="13197601274">
+        <attvalues>
+          <attvalue for="0" value="BobbyComedia" />
+        </attvalues>
+      </node>
+      <node id="13200405819" label="13200405819">
+        <attvalues>
+          <attvalue for="0" value="twitamik" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13199407630" label="13199407630">
+        <attvalues>
+          <attvalue for="0" value="COACD" />
+        </attvalues>
+      </node>
+      <node id="13200418713" label="13200418713">
+        <attvalues>
+          <attvalue for="0" value="JCFoxpox" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13200427021" label="13200427021">
+        <attvalues>
+          <attvalue for="0" value="honeyxbunch" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13200393694" label="13200393694">
+        <attvalues>
+          <attvalue for="0" value="mario_tapia" />
+        </attvalues>
+      </node>
+      <node id="13200437895" label="13200437895">
+        <attvalues>
+          <attvalue for="0" value="negi2000" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13188012472" label="13188012472">
+        <attvalues>
+          <attvalue for="0" value="ermine" />
+        </attvalues>
+      </node>
+      <node id="13200447612" label="13200447612">
+        <attvalues>
+          <attvalue for="0" value="MSRedmule" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13200383231" label="13200383231">
+        <attvalues>
+          <attvalue for="0" value="KatyinIndy" />
+        </attvalues>
+      </node>
+      <node id="13200469294" label="13200469294">
+        <attvalues>
+          <attvalue for="0" value="SoFloGoGreen2" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13030880696" label="13030880696">
+        <attvalues>
+          <attvalue for="0" value="WhoisKristyLuv" />
+        </attvalues>
+      </node>
+      <node id="13200472733" label="13200472733">
+        <attvalues>
+          <attvalue for="0" value="twintermareilha" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13198638547" label="13198638547">
+        <attvalues>
+          <attvalue for="0" value="paulocoelho" />
+        </attvalues>
+      </node>
+      <node id="13200509234" label="13200509234">
+        <attvalues>
+          <attvalue for="0" value="himeteoro" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13200051004" label="13200051004">
+        <attvalues>
+          <attvalue for="0" value="misswestwick" />
+        </attvalues>
+      </node>
+      <node id="13200521986" label="13200521986">
+        <attvalues>
+          <attvalue for="0" value="smpnsb" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13193311506" label="13193311506">
+        <attvalues>
+          <attvalue for="0" value="SynergyComp" />
+        </attvalues>
+      </node>
+      <node id="13200554663" label="13200554663">
+        <attvalues>
+          <attvalue for="0" value="shades_of_sylar" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13200282043" label="13200282043">
+        <attvalues>
+          <attvalue for="0" value="Heroes100Trek" />
+        </attvalues>
+      </node>
+      <node id="13200555323" label="13200555323">
+        <attvalues>
+          <attvalue for="0" value="newpathforlife" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13200120782" label="13200120782">
+        <attvalues>
+          <attvalue for="0" value="JudeEastman" />
+        </attvalues>
+      </node>
+      <node id="13200593807" label="13200593807">
+        <attvalues>
+          <attvalue for="0" value="9handy" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13187110282" label="13187110282">
+        <attvalues>
+          <attvalue for="0" value="metageopolitics" />
+        </attvalues>
+      </node>
+      <node id="13200609349" label="13200609349">
+        <attvalues>
+          <attvalue for="0" value="La_Wera_" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13197382058" label="13197382058">
+        <attvalues>
+          <attvalue for="0" value="SashaSokol" />
+        </attvalues>
+      </node>
+      <node id="13200614988" label="13200614988">
+        <attvalues>
+          <attvalue for="0" value="bruscandiuzzi" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13200616231" label="13200616231">
+        <attvalues>
+          <attvalue for="0" value="NesiWrites" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13199156881" label="13199156881">
+        <attvalues>
+          <attvalue for="0" value="MsTerryMcMillan" />
+        </attvalues>
+      </node>
+      <node id="13200617042" label="13200617042">
+        <attvalues>
+          <attvalue for="0" value="_LuisHenrique94" />
+          <attvalue for="1" value="retweet" />
+        </attvalues>
+      </node>
+      <node id="13200067731" label="13200067731">
+        <attvalues>
+          <attvalue for="0" value="nathanriany" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="13197220945" target="13131836465" id="0" type="retweet" />
+      <edge source="13197278255" target="13197232851" id="1" type="retweet" />
+      <edge source="13197283788" target="13197104991" id="2" type="retweet" />
+      <edge source="13197305837" target="13072226309" id="3" type="retweet" />
+      <edge source="13197310042" target="13197035575" id="4" type="retweet" />
+      <edge source="13197315294" target="13197148360" id="5" type="retweet" />
+      <edge source="13197318525" target="13197230184" id="6" type="retweet" />
+      <edge source="13197339633" target="13196933908" id="7" type="retweet" />
+      <edge source="13197353461" target="13197210922" id="8" type="retweet" />
+      <edge source="13197366884" target="13197191544" id="9" type="retweet" />
+      <edge source="13197405691" target="13197193862" id="10" type="retweet" />
+      <edge source="13197431094" target="13197210820" id="11" type="retweet" />
+      <edge source="13197433052" target="13194734003" id="12" type="retweet" />
+      <edge source="13197439582" target="13197430545" id="13" type="retweet" />
+      <edge source="13197448432" target="13197328572" id="14" type="retweet" />
+      <edge source="13197466612" target="13196111985" id="15" type="retweet" />
+      <edge source="13197482092" target="13195644980" id="16" type="retweet" />
+      <edge source="13197487162" target="13197303126" id="17" type="retweet" />
+      <edge source="13197515453" target="13197294192" id="18" type="retweet" />
+      <edge source="13197517388" target="13196718421" id="19" type="retweet" />
+      <edge source="13197541858" target="13197390588" id="20" type="retweet" />
+      <edge source="13197545015" target="13074955811" id="21" type="retweet" />
+      <edge source="13197571493" target="13197413888" id="22" type="retweet" />
+      <edge source="13197572437" target="13197540974" id="23" type="retweet" />
+      <edge source="13197587487" target="13145541854" id="24" type="retweet" />
+      <edge source="13197609552" target="13197167937" id="25" type="retweet" />
+      <edge source="13197627529" target="13197489023" id="26" type="retweet" />
+      <edge source="13197629129" target="13197344936" id="27" type="retweet" />
+      <edge source="13197634999" target="13182696614" id="28" type="retweet" />
+      <edge source="13197640141" target="13197619150" id="29" type="retweet" />
+      <edge source="13197640539" target="13197581530" id="30" type="retweet" />
+      <edge source="13197670589" target="13197591811" id="31" type="retweet" />
+      <edge source="13197685604" target="13197367847" id="32" type="retweet" />
+      <edge source="13197694063" target="13186520641" id="33" type="retweet" />
+      <edge source="13197704439" target="13197649454" id="34" type="retweet" />
+      <edge source="13197723649" target="13172802690" id="35" type="retweet" />
+      <edge source="13197750904" target="13197546689" id="36" type="retweet" />
+      <edge source="13197753964" target="13196218063" id="37" type="retweet" />
+      <edge source="13197767323" target="13197658447" id="38" type="retweet" />
+      <edge source="13197790363" target="13197686373" id="39" type="retweet" />
+      <edge source="13197808268" target="13086921808" id="40" type="retweet" />
+      <edge source="13197817289" target="13197176585" id="41" type="retweet" />
+      <edge source="13197820676" target="13197806924" id="42" type="retweet" />
+      <edge source="13197916063" target="13196883498" id="43" type="retweet" />
+      <edge source="13197951378" target="13197891440" id="44" type="retweet" />
+      <edge source="13197971144" target="12079662741" id="45" type="retweet" />
+      <edge source="13197984501" target="13197128181" id="46" type="retweet" />
+      <edge source="13197999666" target="13197895918" id="47" type="retweet" />
+      <edge source="13198037139" target="13197852838" id="48" type="retweet" />
+      <edge source="13198074205" target="13196493094" id="49" type="retweet" />
+      <edge source="13198163936" target="13197763356" id="50" type="retweet" />
+      <edge source="13198168095" target="13197734156" id="51" type="retweet" />
+      <edge source="13198171634" target="13195702302" id="52" type="retweet" />
+      <edge source="13198217544" target="13197894052" id="53" type="retweet" />
+      <edge source="13198267061" target="13197615528" id="54" type="retweet" />
+      <edge source="13198320991" target="13197615528" id="55" type="retweet" />
+      <edge source="13198329234" target="13197278411" id="56" type="retweet" />
+      <edge source="13198358925" target="13198161115" id="57" type="retweet" />
+      <edge source="13198391897" target="13096386129" id="58" type="retweet" />
+      <edge source="13198399522" target="13198151069" id="59" type="retweet" />
+      <edge source="13198400822" target="13187632206" id="60" type="retweet" />
+      <edge source="13198428974" target="13198349771" id="61" type="retweet" />
+      <edge source="13198441458" target="13197442455" id="62" type="retweet" />
+      <edge source="13198481579" target="13198369436" id="63" type="retweet" />
+      <edge source="13198494081" target="13198260917" id="64" type="retweet" />
+      <edge source="13198500212" target="13198462044" id="65" type="retweet" />
+      <edge source="13198533448" target="13198055752" id="66" type="retweet" />
+      <edge source="13198585906" target="13198538870" id="67" type="retweet" />
+      <edge source="13198602694" target="13198263261" id="68" type="retweet" />
+      <edge source="13198618019" target="13197795585" id="69" type="retweet" />
+      <edge source="13198638807" target="13089003490" id="70" type="retweet" />
+      <edge source="13198651258" target="13198521270" id="71" type="retweet" />
+      <edge source="13198673811" target="13196724883" id="72" type="retweet" />
+      <edge source="13198686478" target="13195324294" id="73" type="retweet" />
+      <edge source="13198690494" target="13198422781" id="74" type="retweet" />
+      <edge source="13198756985" target="13198495082" id="75" type="retweet" />
+      <edge source="13198762606" target="13197040124" id="76" type="retweet" />
+      <edge source="13198857663" target="13198832236" id="77" type="retweet" />
+      <edge source="13198871727" target="13191801406" id="78" type="retweet" />
+      <edge source="13198921661" target="13198829939" id="79" type="retweet" />
+      <edge source="13199001774" target="13195387850" id="80" type="retweet" />
+      <edge source="13199039552" target="13140114103" id="81" type="retweet" />
+      <edge source="13199201599" target="13189691888" id="82" type="retweet" />
+      <edge source="13199361981" target="13147585859" id="83" type="retweet" />
+      <edge source="13199384625" target="13146904038" id="84" type="retweet" />
+      <edge source="13199413311" target="13199346295" id="85" type="retweet" />
+      <edge source="13199448323" target="13194961997" id="86" type="retweet" />
+      <edge source="13199521339" target="13198306002" id="87" type="retweet" />
+      <edge source="13199562459" target="13183026614" id="88" type="retweet" />
+      <edge source="13199633499" target="13199557753" id="89" type="retweet" />
+      <edge source="13199738384" target="13199461388" id="90" type="retweet" />
+      <edge source="13199744818" target="13197289204" id="91" type="retweet" />
+      <edge source="13199755728" target="13199617804" id="92" type="retweet" />
+      <edge source="13199782013" target="13155269987" id="93" type="retweet" />
+      <edge source="13199828115" target="13199665212" id="94" type="retweet" />
+      <edge source="13199858477" target="13199577293" id="95" type="retweet" />
+      <edge source="13199863177" target="13199824916" id="96" type="retweet" />
+      <edge source="13199892021" target="13034083867" id="97" type="retweet" />
+      <edge source="13199934625" target="13168327266" id="98" type="retweet" />
+      <edge source="13199940066" target="13199865770" id="99" type="retweet" />
+      <edge source="13199946913" target="13171569767" id="100" type="retweet" />
+      <edge source="13199963849" target="13188351303" id="101" type="retweet" />
+      <edge source="13199979242" target="13199461388" id="102" type="retweet" />
+      <edge source="13199992235" target="13196193725" id="103" type="retweet" />
+      <edge source="13200030797" target="13199906537" id="104" type="retweet" />
+      <edge source="13200048781" target="13200045668" id="105" type="retweet" />
+      <edge source="13200067077" target="13150122908" id="106" type="retweet" />
+      <edge source="13200096539" target="13197789660" id="107" type="retweet" />
+      <edge source="13200113118" target="13198305392" id="108" type="retweet" />
+      <edge source="13200114873" target="13200001226" id="109" type="retweet" />
+      <edge source="13200123135" target="13199336614" id="110" type="retweet" />
+      <edge source="13200137395" target="13199622050" id="111" type="retweet" />
+      <edge source="13200142955" target="13188055799" id="112" type="retweet" />
+      <edge source="13200143128" target="13200119442" id="113" type="retweet" />
+      <edge source="13200146198" target="13199929979" id="114" type="retweet" />
+      <edge source="13200159168" target="13200081891" id="115" type="retweet" />
+      <edge source="13200162023" target="13200115980" id="116" type="retweet" />
+      <edge source="13200168477" target="13200134364" id="117" type="retweet" />
+      <edge source="13200169884" target="13200117641" id="118" type="retweet" />
+      <edge source="13200187523" target="13200141891" id="119" type="retweet" />
+      <edge source="13200221112" target="13200191631" id="120" type="retweet" />
+      <edge source="13200249074" target="13200114683" id="121" type="retweet" />
+      <edge source="13200260065" target="13200219258" id="122" type="retweet" />
+      <edge source="13200277713" target="13190965490" id="123" type="retweet" />
+      <edge source="13200277858" target="13200011078" id="124" type="retweet" />
+      <edge source="13200289893" target="13200220469" id="125" type="retweet" />
+      <edge source="13200295811" target="13200227475" id="126" type="retweet" />
+      <edge source="13200296068" target="13199316363" id="127" type="retweet" />
+      <edge source="13200312954" target="13200139381" id="128" type="retweet" />
+      <edge source="13200320182" target="13197239264" id="129" type="retweet" />
+      <edge source="13200335628" target="13175352881" id="130" type="retweet" />
+      <edge source="13200335643" target="13200210953" id="131" type="retweet" />
+      <edge source="13200339632" target="13200268824" id="132" type="retweet" />
+      <edge source="13200341564" target="13200310378" id="133" type="retweet" />
+      <edge source="13200349677" target="13200203139" id="134" type="retweet" />
+      <edge source="13200357099" target="13200344143" id="135" type="retweet" />
+      <edge source="13200361227" target="13200227475" id="136" type="retweet" />
+      <edge source="13200362253" target="13200341503" id="137" type="retweet" />
+      <edge source="13200363191" target="12951822937" id="138" type="retweet" />
+      <edge source="13200364594" target="13200279969" id="139" type="retweet" />
+      <edge source="13200366638" target="13200231709" id="140" type="retweet" />
+      <edge source="13200368623" target="13197309569" id="141" type="retweet" />
+      <edge source="13200374944" target="13199906537" id="142" type="retweet" />
+      <edge source="13200376931" target="13193716321" id="143" type="retweet" />
+      <edge source="13200381013" target="7242339794" id="144" type="retweet" />
+      <edge source="13200385261" target="13200248473" id="145" type="retweet" />
+      <edge source="13200401463" target="11665749351" id="146" type="retweet" />
+      <edge source="13200405753" target="13197601274" id="147" type="retweet" />
+      <edge source="13200405819" target="13199407630" id="148" type="retweet" />
+      <edge source="13200418713" target="13199461388" id="149" type="retweet" />
+      <edge source="13200427021" target="13200393694" id="150" type="retweet" />
+      <edge source="13200437895" target="13188012472" id="151" type="retweet" />
+      <edge source="13200447612" target="13200383231" id="152" type="retweet" />
+      <edge source="13200469294" target="13030880696" id="153" type="retweet" />
+      <edge source="13200472733" target="13198638547" id="154" type="retweet" />
+      <edge source="13200509234" target="13200051004" id="155" type="retweet" />
+      <edge source="13200521986" target="13193311506" id="156" type="retweet" />
+      <edge source="13200554663" target="13200282043" id="157" type="retweet" />
+      <edge source="13200555323" target="13200120782" id="158" type="retweet" />
+      <edge source="13200593807" target="13187110282" id="159" type="retweet" />
+      <edge source="13200609349" target="13197382058" id="160" type="retweet" />
+      <edge source="13200614988" target="13200227475" id="161" type="retweet" />
+      <edge source="13200616231" target="13199156881" id="162" type="retweet" />
+      <edge source="13200617042" target="13200067731" id="163" type="retweet" />
+    </edges>
+  </graph>
+</gexf>
